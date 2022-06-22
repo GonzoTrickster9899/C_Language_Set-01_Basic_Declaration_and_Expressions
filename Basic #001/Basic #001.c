@@ -1,7 +1,7 @@
 #include <stdio.h>
 //------------------------------------------------------------------------------//
-//	Basic #001																	//
-//		Write a C program to print your name, date of birth, and mobile number.	//
+//	Basic #001								//
+//	Write a C program to print your name, date of birth, and mobile number.	//
 //------------------------------------------------------------------------------//
 
 int main(){
