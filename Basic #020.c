@@ -17,7 +17,7 @@
   if(discriminant>0 && a!=0){                     // IF Statement: If discriminant is greater than 0 and the first number a is not equal to 0
     root1=(-b+sqrt(discriminant))/(2*a);          // Use the Bhaskara's formula (positive) to get root1
     root2=(-b-sqrt(discriminant))/(2*a);          // Use the Bhaskara's formula (negative) to get root2
-		printf("\nRoot1 = %.5f", root1);              // Print root1 on the screen
+    printf("\nRoot1 = %.5f", root1);              // Print root1 on the screen
     printf("\nRoot2 = %.5f\n", root2);            // Print root2 on the screen
   }else{                                          // If not...
     printf("\nImpossible to find the roots.\n");  // Print "Impossible to find the roots/" on the screen
